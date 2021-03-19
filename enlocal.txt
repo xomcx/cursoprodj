@@ -1,3 +1,6 @@
 desde la pc local
 
+
 mis cambios en elmimo archivo desde el local
+
+cambios que se esta editando el mismo archivo
