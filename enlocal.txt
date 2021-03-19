@@ -1,1 +1,4 @@
 desde la pc local
+
+
+cambios que se esta editando el mismo archivo
